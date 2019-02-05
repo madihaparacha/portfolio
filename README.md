@@ -1,5 +1,5 @@
 # Portfolio
-https://madihaparacha.github.io/portfolio/
+https://madihaperacha.github.io/portfolio/
 
 ## Ingredients
 To make this application, we need to cover the following topics:
